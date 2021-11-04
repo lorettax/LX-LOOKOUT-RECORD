@@ -53,14 +53,8 @@ $ ./loveapps/tcp_benchmark
 
 引入网络流攻击防护。
 
-进一步建立可靠网络流，挥手永远失败。
+进一步建立可靠网络流，优化性能。
 
-封装界面客户端，以循环会话模式轮转瞭望录。
+封装界面客户端。
 
-### 背景附图：
 
-![1b5eef07c3b1334c69e4ca19d6e2906](https://user-images.githubusercontent.com/50191422/137711862-182b3e1a-0fcc-44c6-87fd-4cafce2d5e0a.jpg)
-
-![65e7524f034ecc819c9a7087a4d618c](https://user-images.githubusercontent.com/50191422/137711934-47640f4d-249f-406a-a5bb-a043524a2b04.jpg)
-过了一年多的狗尾巴草，哈哈哈~
-![8be52fba84db844572f9a86331bd0f1](https://user-images.githubusercontent.com/50191422/137711966-1a8e419d-04ca-4f66-8ec9-a0fa11afe8d2.jpg)
